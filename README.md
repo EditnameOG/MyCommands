@@ -14,7 +14,7 @@
 
 
 ## Installing
-1. Download "MyCommands" from https://github.com/EditnameOG/MyCommands
+1. [Download My Commands](https://github.com/EditnameOG/MyCommands/archive/refs/heads/main.zip) **<- Download link**
 2. Edit Line 44 With Server name, Edit Lines 46-55 with commands. More commands can be added due to scrollable list.
 3. Upload to your resource folder.
 4. Add "start mycommands" to your server.cfg
